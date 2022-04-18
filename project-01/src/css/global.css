@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+#global_HEADER {
+  height: 80px;
+  width: 100%;
+  border-bottom: 1px solid #00000020;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#global_HEADER button {
+  margin: 0 10px;
+  width: 100px;
+  padding: 10px 0;
+  border:0;
+  border-radius: 10px;;
+  background-color: rgb(79, 58, 138);
+  color: #fff;
+}
+
